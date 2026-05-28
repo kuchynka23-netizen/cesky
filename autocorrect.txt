@@ -1,0 +1,152 @@
+# Czech Grammarly — Autocorrect pravidla
+# Formát: překlep=správný tvar
+# Řádky začínající # jsou komentáře a ignorují se
+# Pravidla jsou case-insensitive, první písmeno se zachová
+
+# =============================================
+# Chybějící diakritika — nejčastější slova
+# =============================================
+uz=už
+jiz=již
+nez=než
+prece=přece
+prilis=příliš
+priste=příště
+rict=říct
+rici=říci
+rikam=říkám
+rikas=říkáš
+delam=dělám
+delas=děláš
+delame=děláme
+delaji=dělají
+vite=víte
+vis=víš
+vim=vím
+jdem=jdeme
+pojdem=pojdeme
+pujdem=půjdeme
+pujdu=půjdu
+pujdes=půjdeš
+muzu=můžu
+muzem=můžeme
+nevim=nevím
+nevis=nevíš
+nevite=nevíte
+proc=proč
+protoze=protože
+kdyz=když
+jeste=ještě
+take=také
+mozna=možná
+zpet=zpět
+ted=teď
+teda=tedy
+vlastne=vlastně
+hodne=hodně
+malo=málo
+temer=téměř
+vazne=vážně
+jasne=jasně
+samozrejme=samozřejmě
+urcite=určitě
+rozhodne=rozhodně
+diky=díky
+prosim=prosím
+prominte=promiňte
+omlouvam=omlouvám
+dekuju=děkuju
+dekuji=děkuji
+zdravim=zdravím
+pujcit=půjčit
+pujcku=půjčku
+vubec=vůbec
+vobec=vůbec
+nekdo=někdo
+neco=něco
+nekdy=někdy
+vzdycky=vždycky
+vzdyt=vždyť
+praci=práci
+skolu=školu
+domu=domů
+mesto=město
+zivot=život
+casto=často
+zacit=začít
+zacal=začal
+zacali=začali
+konecne=konečně
+bohuzel=bohužel
+rozumim=rozumím
+rozumis=rozumíš
+myslim=myslím
+myslís=myslíš
+citim=cítím
+vidim=vidím
+slysim=slyším
+povidam=povídám
+potrebuji=potřebuji
+potrebuju=potřebuju
+chteli=chtěli
+
+# =============================================
+# Hovorové zkratky → standardní tvar
+# =============================================
+sem=jsem
+ses=jsi
+sme=jsme
+
+# =============================================
+# Časté překlepy z rychlého psaní
+# =============================================
+nj=ní
+mn=mně
+votevrit=otevřít
+
+# =============================================
+# Překlepy z anglické klávesnice
+# =============================================
+cekam=čekám
+cekat=čekat
+resit=řešit
+resim=řeším
+resis=řešíš
+pisem=píšem
+pises=píšeš
+byt=být
+jit=jít
+rit=řít
+chtit=chtít
+videt=vidět
+slySet=slyšet
+vedet=vědět
+umet=umět
+moct=moct
+smeti=smět
+delat=dělat
+rikat=říkat
+myslet=myslet
+citit=cítit
+znat=znát
+platit=platit
+kupovat=kupovat
+prodavat=prodávat
+posilat=posílat
+dostávat=dostávat
+prichazet=přicházet
+odchazet=odcházet
+pricestovat=přicestovat
+nastupovat=nastupovat
+vystupovat=vystupovat
+
+# =============================================
+# Běžné fráze a výrazy
+# =============================================
+dobryden=dobrý den
+dobrejden=dobrý den
+dobryvecr=dobrý večer
+dobrejvecr=dobrý večer
+dobrerano=dobré ráno
+dobreodpoledne=dobré odpoledne
+nashledanou=na shledanou
